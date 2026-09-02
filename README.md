@@ -188,7 +188,3 @@ Video Explanation of Project - https://www.youtube.com/watch?v=kOzGyj3Z-kI&t=2s
 
 Presentation - https://www.canva.com/design/DAGeKc6lCwA/9XKp1HrR6u09G6iKgzT_UQ/edit?utm_content=DAGeKc6lCwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
